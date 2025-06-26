@@ -1,4 +1,3 @@
-# recom_system
 # 🧠 Customer Segmentation & Product Recommendation System
 > 📍 [Live App](https://recomsystem-xy2t4pw8aw2g76qsewvacz.streamlit.app/)  
 
